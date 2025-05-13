@@ -1,4 +1,3 @@
-markdown
 # Thread Synchronization with Critical Sections and Events
 
 ## Overview
