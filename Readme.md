@@ -1,5 +1,3 @@
-Certainly! Below is a `README.md` file for your project on thread synchronization using critical sections and events, including handling deadlocks.
-
 ```markdown
 # Thread Synchronization with Critical Sections and Events
 
