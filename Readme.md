@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Thread Synchronization with Critical Sections and Events
 
 ## Overview
@@ -32,7 +32,6 @@ thread_synchronization/
 │   └── mock_thread.h       # Mock thread for testing
 └── Makefile                # Main Makefile for building the project
 ```
-
 ## Requirements
 - C++17 or later
 - CMake 3.10 or later
@@ -91,6 +90,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` provides a comprehensive overview of your project, including its structure, requirements, building instructions, usage, and testing. It also includes sections for contributing and licensing.
